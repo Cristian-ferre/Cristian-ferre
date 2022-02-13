@@ -1,5 +1,5 @@
-## Olá! eu chamo Cristian Ferreira🖐
-Atualmente sou estudante no Instituto Proa pelo Senac, Na formação de Programador Full Stack Júnio Web definido em três núcleos.
+## Olá! me chamo Cristian Ferreira🖐
+Atualmente sou estudante no Instituto Proa pelo Senac, Na formação de Programador Full Stack Júnio Web, definido em três núcleos.
 - Nucleo Técnico, focado nas tecnologias HTML5, CSS3, bootstrap, Javascript, React, NodeJs, Java, Mysql e Mongodb.
 - Núcleo comportamental, Desenvolve as competências sociocomportamentais e o perfil profissional do aluno por meio de atividades relacionadas ao autoconhecimento, propósito, carreira e mercado de trabalho e metodologias ágeis.
 - Núcleo cultural, Ajuda a expandir o repertório cultural dos jovens e proporciona experiências práticas com o mercado de trabalho. 
