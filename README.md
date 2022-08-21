@@ -31,6 +31,5 @@ Sou apaixonado por tecnologia, desenvolver projetos e apresenta-los para o mundo
 
 
 
-
   
  
