@@ -1,6 +1,6 @@
 ## Olá! me chamo Cristian Ferreira🖐
 
-![banner_oficial_linkedin](https://user-images.githubusercontent.com/99483009/185809430-220c8545-21b1-4447-9eee-193175b0f3cb.png)
+![linkedIn-banner-novo](https://user-images.githubusercontent.com/99483009/185810609-976714bf-bc19-4a9e-b231-5e1dcbf25769.png)
 
 Estágiario - Desenvolvimento de Software na <a href="https://www.websupply.com.br/" target="_blank">Websupply 💙 </a>
 <br/>
