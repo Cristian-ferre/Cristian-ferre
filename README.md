@@ -44,7 +44,7 @@ Sou apaixonado por tecnologia, desenvolver projetos e apresenta-los para o mundo
 
 ![1662220067142](https://user-images.githubusercontent.com/99483009/188278249-ab117a56-36d2-4e5e-8311-406ab6174bd9.png) 
 
- <p>🎮 Experiência completa, click  <a href = "https://cristian-ferre.github.io/Jogo-da-memoria/pages/login"> AQUI  </a>
+ <p>🎮 Experiência completa, click  <a href = "https://cristian-ferre.github.io/Jogo-da-memoria/pages/login"   target="_blank"> AQUI  </a>
  
  ##
  
@@ -52,7 +52,7 @@ Sou apaixonado por tecnologia, desenvolver projetos e apresenta-los para o mundo
  
  ![apadrinhe-me-home](https://user-images.githubusercontent.com/99483009/188278647-0ae06cc4-7a26-44ab-b76a-cd730c0cab50.png)
 
- <p>🎮 Experiência completa, click  <a href = "https://nimble-jalebi-97f464.netlify.app/"> AQUI  </a>
+ <p>🎮 Experiência completa, click  <a href = "https://nimble-jalebi-97f464.netlify.app/"  target="_blank"> AQUI  </a>
 </div>
 
  
