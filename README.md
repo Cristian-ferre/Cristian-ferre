@@ -1,35 +1,41 @@
-## Olá! me chamo Cristian Ferreira🖐
 
-![linkedIn-banner-novo](https://user-images.githubusercontent.com/99483009/185810609-976714bf-bc19-4a9e-b231-5e1dcbf25769.png)
+# Hi there 👋, My name is Cristian Ferreira
 
-Estágiario - Desenvolvimento de Software na <a href="https://www.websupply.com.br/" target="_blank">Websupply 💙 </a>
-<br/>
-Atualmente sou estudante no Senac, na graduação de tecnologia, em Análise e Desenvolvimento de Sistemas.
-<br/>
-Ex estudante no Instituto Proa pelo Senac, Na formação de Programador Full Stack Júnio Web, definido em três núcleos.
-- Nucleo Técnico, focado nas tecnologias HTML5, CSS3, bootstrap, Javascript, React, NodeJs, Java, Mysql e sql.
-- Núcleo comportamental, Desenvolve as competências sociocomportamentais e o perfil profissional do aluno por meio de atividades relacionadas ao autoconhecimento, propósito, carreira e mercado de trabalho e metodologias ágeis.
-- Núcleo cultural, Ajuda a expandir o repertório cultural dos jovens e proporciona experiências práticas com o mercado de trabalho. 
+![github-header-image (3)](https://user-images.githubusercontent.com/99483009/188275848-9bc3d56e-8f90-4325-bcae-6d595a22e948.png)
 
-E não pode falta o inglês, que sem duvida é um diferencial enorme para busca de conhecimento diversificado.
+## 💫 Liitle Bit More About Me
+<p>💻 | Estágiario - Desenvolvimento de Software na <a href="https://www.websupply.com.br/" target="_blank">Websupply 💙 </a></p>
+<p>🎒 | Estudante no Senac, na graduação de tecnologia, em Análise e Desenvolvimento de Sistemas.</p>
+<p>👨🏽‍💻 | Formado em programação Full stack web pelo Instituto Proa e Senac.  </p>
+<p>🔤 | E não pode falta o inglês, que sem duvida é um diferencial enorme para busca de conhecimento diversificado.</p>
+<p>📫 | Para chegar até mim? cristianferreiradeoliveira.ti@gmail.com</p>
 
-  <a href="https://drive.google.com/file/d/1NhBS_rRTAXxdudjf0CAfMnJ3ad87_Xqq/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Meu CV-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br/>
 Sou apaixonado por tecnologia, desenvolver projetos e apresenta-los para o mundo.
 <div align="center">
   <a href="https://github.com/Cristian-ferre">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Ferre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-</div>
-
-  ##
- 
-<div> 
-  <a href = "mailto:cristianferreiradeoliveira.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristianfdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
+  ## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/mysql-%23F05033.svg?style=for-the-badge&logo=mysql&logoColor=blue" style="margin-bottom: 4px;" height="30px">
+</p>
   
  
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cristianferreiradeoliveira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+
+<a href = "mailto:cristianferreiradeoliveira.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</p>
+
+
+ ## 📊 Github Status
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Cristian-ferre&show_icons=true"><p>
+
+</div>
