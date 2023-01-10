@@ -34,6 +34,14 @@ Sou apaixonado por tecnologia, desenvolver projetos e apresenta-los para o mundo
 </p>
 
 ## 🦾 Alguns projetos
+    
+<p>Rede social - Apadrinhe-me </p>
+ 
+ ![apadrinhe-me-home](https://user-images.githubusercontent.com/99483009/188278647-0ae06cc4-7a26-44ab-b76a-cd730c0cab50.png)
+
+ <p>🎮 Experiência completa, click  <a href = "https://nimble-jalebi-97f464.netlify.app/"  target="_blank"> AQUI  </a>
+   
+   ##
 
 <p>jogo da memória</p>
 
@@ -41,15 +49,7 @@ Sou apaixonado por tecnologia, desenvolver projetos e apresenta-los para o mundo
 
  <p>🎮 Experiência completa, click  <a href = "https://cristian-ferre.github.io/Jogo-da-memoria/pages/login"   target="_blank"> AQUI  </a>
  
- ##
- 
- <p>Rede social - Apadrinhe-me </p>
- 
- ![apadrinhe-me-home](https://user-images.githubusercontent.com/99483009/188278647-0ae06cc4-7a26-44ab-b76a-cd730c0cab50.png)
 
- <p>🎮 Experiência completa, click  <a href = "https://nimble-jalebi-97f464.netlify.app/"  target="_blank"> AQUI  </a>
- 
- 
  ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Cristian-ferre&show_icons=true"><p>
