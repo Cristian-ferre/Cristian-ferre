@@ -4,7 +4,7 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/99483009/188275848-9bc3d56e-8f90-4325-bcae-6d595a22e948.png)
 
 ## 💫 Liitle Bit More About Me
-<p>💻 | Estágiario - Desenvolvimento de Software na <a href="https://www.websupply.com.br/" target="_blank">Websupply 💙 </a></p>
+<p>💻 | Desenvolvimento de Software Júnior na <a href="https://www.websupply.com.br/" target="_blank">Websupply 💙 </a></p>
 <p>🎒 | Estudante no Senac, na graduação de tecnologia, em Análise e Desenvolvimento de Sistemas.</p>
 <p>👨🏽‍💻 | Formado em programação Full stack web pelo Instituto Proa e Senac.  </p>
 <p>🔤 | E não pode falta o inglês, que sem duvida é um diferencial enorme para busca de conhecimento diversificado.</p>
